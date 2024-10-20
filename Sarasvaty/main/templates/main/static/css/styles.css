@@ -1,4 +1,10 @@
-/* static/css/styles.css */
+/* main/static/main/css/styles.css */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 .footer {
-    background-color: #f8f9fa;
+    background-color: #f8f9fa; /* Светло-серый фон для футера */
 }
